@@ -1,0 +1,9 @@
+{
+  "name": "Copy of ChatXA - Winzy",
+  "description": "A high-performance, liquid-glass themed messaging application powered by Gemini AI with 3D visuals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
